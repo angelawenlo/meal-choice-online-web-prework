@@ -1,3 +1,3 @@
-def should default to meat (meat=vegan)
-  puts #{meat=vegan}
+def should default to meat (meal="meat")
+  puts #{meal}
 end
