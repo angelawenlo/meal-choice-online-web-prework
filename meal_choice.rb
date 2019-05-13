@@ -1,3 +1,3 @@
-def should default to meat (meal="meat")
+def meal_choice(meal="meat")
   puts #{meal}
 end
